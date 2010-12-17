@@ -1,0 +1,32 @@
+<h1>Editing userrole</h1>
+
+<% form_for(@userrole) do |f| %>
+  <%= f.error_messages %>
+
+  <p>
+    <%= f.label :name %><br />
+    <%= f.text_field :name %>
+  </p>
+  <p>
+    <%= f.label :create_role %><br />
+    <%= f.check_box :create_role %>
+  </p>
+  <p>
+    <%= f.label :delete %><br />
+    <%= f.check_box :delete %>
+  </p>
+  <p>
+    <%= f.label :view %><br />
+    <%= f.check_box :view %>
+  </p>
+  <p>
+    <%= f.label :edit %><br />
+    <%= f.check_box :edit %>
+  </p>
+  <p>
+    <%= f.submit 'Update' %>
+  </p>
+<% end %>
+
+<%= link_to 'Show', @userrole %> |
+<%= link_to 'Back', userroles_path %>

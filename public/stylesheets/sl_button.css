@@ -1,0 +1,78 @@
+@charset "utf-8";
+/* CSS Document */
+.clear { /* generic container (i.e. div) for floating buttons */
+    overflow: hidden;
+    width: 100%;
+}
+a.button {
+    background: transparent url(../images/bg_button_a.png) no-repeat scroll top right;
+    color: #444;
+    display: block;
+    float: left;
+    height: 34px;
+    margin-right: 6px;
+    padding-right: 30px; /* sliding doors padding */
+    text-decoration: none;
+}
+a.button span {
+    background: transparent url(../images/bg_button_span.png) no-repeat;
+    display: block;
+    line-height: 14px;
+    padding: 10px 0 10px 30px;
+} 
+a.button:active {
+    background-position: bottom right;
+    color: #000;
+    outline: none; /* hide dotted outline in Firefox */
+}
+a.button:active span {
+    background-position: bottom left;
+    padding: 11px 0 9px 30px; /* push text down 1px */
+} 
+a.button:focus {
+    background-position: bottom right;
+    color: #000;
+    outline: none; /* hide dotted outline in Firefox */
+}
+a.button:focus span {
+    background-position: bottom left;
+    padding: 11px 0 9px 30px; /* push text down 1px */
+}
+
+/*Credits: Dynamic Drive CSS Library */
+/*URL: http://www.dynamicdrive.com/style/ */
+
+a.ovalbutton{
+background: transparent url(../images/oval-gray-left.gif) no-repeat top left;
+display: block;
+float: left;
+/*font: normal 13px Tahoma;  Change 13px as desired */
+line-height: 16px; /* This value + 4px + 4px (top and bottom padding of SPAN) must equal height of button background (default is 24px) */
+height: 24px; /* Height of button background height */
+padding-left: 11px; /* Width of left menu image */
+text-decoration: none;
+}
+
+a:link.ovalbutton, a:visited.ovalbutton, a:active.ovalbutton{
+color: #494949; /*button text color*/
+}
+
+a.ovalbutton span{
+background: transparent url(../images/oval-gray-right.gif) no-repeat top right;
+display: block;
+padding: 4px 11px 4px 0; /*Set 11px below to match value of 'padding-left' value above*/
+}
+
+a.ovalbutton:hover{ /* Hover state CSS */
+background-position: bottom left;
+}
+
+a.ovalbutton:hover span{ /* Hover state CSS */
+background-position: bottom right;
+color: black;
+}
+
+.buttonwrapper{ /* Container you can use to surround a CSS button to clear float */
+overflow: hidden; /*See: http://www.quirksmode.org/css/clearing.html */
+width: 100%;
+}

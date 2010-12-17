@@ -1,0 +1,28 @@
+<h1>Listing userroles</h1>
+
+<table>
+  <tr>
+    <th>Name</th>
+    <th>Create</th>
+    <th>Delete</th>
+    <th>View</th>
+    <th>Edit</th>
+  </tr>
+
+<% @userroles.each do |userrole| %>
+  <tr>
+    <td><%=h userrole.name %></td>
+    <td><%=h userrole.create_role %></td>
+    <td><%=h userrole.delete %></td>
+    <td><%=h userrole.view %></td>
+    <td><%=h userrole.edit %></td>
+    <td><%= link_to 'Show', userrole %></td>
+    <td><%= link_to 'Edit', edit_userrole_path(userrole) %></td>
+    <td><%= link_to 'Destroy', userrole, :confirm => 'Are you sure?', :method => :delete %></td>
+  </tr>
+<% end %>
+</table>
+
+<br />
+
+<%= link_to 'New userrole', new_userrole_path %>

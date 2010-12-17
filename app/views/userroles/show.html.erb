@@ -1,0 +1,28 @@
+<p>
+  <b>Name:</b>
+  <%=h @userrole.name %>
+</p>
+
+<p>
+  <b>Create:</b>
+  <%=h @userrole.create_role %>
+</p>
+
+<p>
+  <b>Delete:</b>
+  <%=h @userrole.delete %>
+</p>
+
+<p>
+  <b>View:</b>
+  <%=h @userrole.view %>
+</p>
+
+<p>
+  <b>Edit:</b>
+  <%=h @userrole.edit %>
+</p>
+
+
+<%= link_to 'Edit', edit_userrole_path(@userrole) %> |
+<%= link_to 'Back', userroles_path %>

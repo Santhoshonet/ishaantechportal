@@ -1,0 +1,15 @@
+# Read about fixtures at http://ar.rubyonrails.org/classes/Fixtures.html
+
+one:
+  name: MyString
+  create: false
+  delete: false
+  view: false
+  edit: false
+
+two:
+  name: MyString
+  create: false
+  delete: false
+  view: false
+  edit: false
