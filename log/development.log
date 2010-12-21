@@ -3695,3 +3695,31 @@ ActionController::RoutingError (No route matches "/loading2.gif" with {:method=>
   C:/Users/Santhosh/AppData/Ruby191/lib/ruby/1.9.1/webrick/server.rb:183:in `block in start_thread'
 
 Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.0ms)[0m   [0;1mSET client_min_messages TO 'panic'[0m
+  [4;35;1mSQL (0.0ms)[0m   [0mSET standard_conforming_strings = on[0m
+  [4;36;1mSQL (0.0ms)[0m   [0;1mSET client_min_messages TO 'notice'[0m
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-12-20 18:22:08) [GET]
+
+ActionController::RoutingError (No route matches "/loading2.gif" with {:method=>:get}):
+  <internal:prelude>:10:in `synchronize'
+  C:/Users/Santhosh/AppData/Ruby192/lib/ruby/1.9.1/webrick/httpserver.rb:111:in `service'
+  C:/Users/Santhosh/AppData/Ruby192/lib/ruby/1.9.1/webrick/httpserver.rb:70:in `run'
+  C:/Users/Santhosh/AppData/Ruby192/lib/ruby/1.9.1/webrick/server.rb:183:in `block in start_thread'
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (1.0ms)[0m   [0;1mSET client_min_messages TO 'panic'[0m
+  [4;35;1mSQL (0.0ms)[0m   [0mSET standard_conforming_strings = on[0m
+  [4;36;1mSQL (1.0ms)[0m   [0;1mSET client_min_messages TO 'notice'[0m
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-12-21 16:38:51) [GET]
+
+ActionController::RoutingError (No route matches "/loading2.gif" with {:method=>:get}):
+  <internal:prelude>:10:in `synchronize'
+  C:/Users/Santhosh/AppData/Ruby192/lib/ruby/1.9.1/webrick/httpserver.rb:111:in `service'
+  C:/Users/Santhosh/AppData/Ruby192/lib/ruby/1.9.1/webrick/httpserver.rb:70:in `run'
+  C:/Users/Santhosh/AppData/Ruby192/lib/ruby/1.9.1/webrick/server.rb:183:in `block in start_thread'
+
+Rendering rescues/layout (not_found)

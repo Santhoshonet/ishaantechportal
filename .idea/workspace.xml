@@ -2,9 +2,22 @@
 <project version="4">
   <component name="ChangeListManager" verified="true">
     <list default="true" readonly="true" id="3745b10c-ba14-4bef-9bb0-72849eb96861" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/homev1.html" afterPath="$PROJECT_DIR$/public/homev1.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/detail.html" afterPath="$PROJECT_DIR$/public/detail.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/.generators" afterPath="$PROJECT_DIR$/.idea/.generators" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/IshaanTech_Portal.iml" afterPath="$PROJECT_DIR$/.idea/IshaanTech_Portal.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/index1.html" afterPath="$PROJECT_DIR$/public/index1.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/listing.html" afterPath="$PROJECT_DIR$/public/listing.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/blog.html" afterPath="$PROJECT_DIR$/public/blog.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/static.html" afterPath="$PROJECT_DIR$/public/static.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/log/development.log" afterPath="$PROJECT_DIR$/log/development.log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/cart.html" afterPath="$PROJECT_DIR$/public/cart.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/index.html" afterPath="$PROJECT_DIR$/public/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/detailv1.html" afterPath="$PROJECT_DIR$/public/detailv1.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/blog_post.html" afterPath="$PROJECT_DIR$/public/blog_post.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/contact.html" afterPath="$PROJECT_DIR$/public/contact.html" />
     </list>
     <ignored path="IshaanTech_Portal.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -47,22 +60,22 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/db/migrate/20101025084724_create_userroles.rb" />
         <option value="$PROJECT_DIR$/app/views/userroles/new.html.erb" />
         <option value="$PROJECT_DIR$/app/controllers/userroles_controller.rb" />
         <option value="$PROJECT_DIR$/app/views/users/index.html.erb" />
         <option value="$PROJECT_DIR$/app/views/layouts/userroles.html.erb" />
-        <option value="$PROJECT_DIR$/public/index.html" />
-        <option value="$PROJECT_DIR$/public/blog.html" />
-        <option value="$PROJECT_DIR$/public/static.html" />
-        <option value="$PROJECT_DIR$/public/listing.html" />
-        <option value="$PROJECT_DIR$/public/detailv1.html" />
-        <option value="$PROJECT_DIR$/public/detail.html" />
-        <option value="$PROJECT_DIR$/public/contact.html" />
-        <option value="$PROJECT_DIR$/public/cart.html" />
-        <option value="$PROJECT_DIR$/public/blog_post.html" />
         <option value="$PROJECT_DIR$/config/routes.rb" />
         <option value="$PROJECT_DIR$/public/homev1.html" />
+        <option value="$PROJECT_DIR$/public/index.html" />
+        <option value="$PROJECT_DIR$/public/blog.html" />
+        <option value="$PROJECT_DIR$/public/blog_post.html" />
+        <option value="$PROJECT_DIR$/public/cart.html" />
+        <option value="$PROJECT_DIR$/public/contact.html" />
+        <option value="$PROJECT_DIR$/public/detail.html" />
+        <option value="$PROJECT_DIR$/public/detailv1.html" />
+        <option value="$PROJECT_DIR$/public/index1.html" />
+        <option value="$PROJECT_DIR$/public/listing.html" />
+        <option value="$PROJECT_DIR$/public/static.html" />
       </list>
     </option>
   </component>
@@ -119,9 +132,9 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="RailsProjectView" />
       <pane id="Favorites" />
+      <pane id="RailsProjectView" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -391,7 +404,7 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.12976022" sideWeight="0.54569536" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="Dependency Viewer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24471086" sideWeight="0.610596" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.174189" sideWeight="0.610596" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.38013244" sideWeight="0.9978448" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -399,6 +412,7 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32882273" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32980132" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -460,63 +474,77 @@
         <state line="7" column="2" selection-start="336" selection-end="373" vertical-scroll-proportion="0.23385301" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/static.html">
+    <entry file="file://$PROJECT_DIR$/config/routes.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="345" column="39" selection-start="21400" selection-end="21400" vertical-scroll-proportion="0.9308756" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/listing.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="137" column="39" selection-start="8059" selection-end="8059" vertical-scroll-proportion="-31.592165" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/detailv1.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="138" column="39" selection-start="8086" selection-end="8086" vertical-scroll-proportion="-10.647466" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/detail.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="138" column="39" selection-start="8086" selection-end="8086" vertical-scroll-proportion="-10.679724" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/contact.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="138" column="39" selection-start="8086" selection-end="8086" vertical-scroll-proportion="-4.046083" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/cart.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="137" column="39" selection-start="8023" selection-end="8023" vertical-scroll-proportion="-11.615208" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/blog_post.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="137" column="39" selection-start="8023" selection-end="8023" vertical-scroll-proportion="-3.735023" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/blog.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="34" column="67" selection-start="295" selection-end="2538" vertical-scroll-proportion="-9.334102" />
+        <state line="39" column="0" selection-start="1622" selection-end="1622" vertical-scroll-proportion="0.40633246" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/public/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="141" column="39" selection-start="8174" selection-end="8174" vertical-scroll-proportion="4.40625">
+        <state line="4" column="16" selection-start="250" selection-end="259" vertical-scroll-proportion="0.15075377">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/config/routes.rb">
+    <entry file="file://$PROJECT_DIR$/public/blog.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="39" column="0" selection-start="1622" selection-end="1622" vertical-scroll-proportion="0.40633246">
+        <state line="4" column="16" selection-start="259" selection-end="259" vertical-scroll-proportion="0.15075377">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/homev1.html">
+    <entry file="file://$PROJECT_DIR$/public/cart.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="195" column="45" selection-start="10095" selection-end="10095" vertical-scroll-proportion="0.37265417">
+        <state line="4" column="16" selection-start="259" selection-end="259" vertical-scroll-proportion="0.15075377">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/blog_post.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="16" selection-start="259" selection-end="259" vertical-scroll-proportion="0.15075377">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/contact.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="16" selection-start="259" selection-end="259" vertical-scroll-proportion="0.15075377">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/detail.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="16" selection-start="259" selection-end="259" vertical-scroll-proportion="0.15075377">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/detailv1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="16" selection-start="259" selection-end="259" vertical-scroll-proportion="0.15075377">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/listing.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="16" selection-start="284" selection-end="284" vertical-scroll-proportion="0.18844222">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/static.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="16" selection-start="259" selection-end="259" vertical-scroll-proportion="0.15075377">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/index1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="16" selection-start="259" selection-end="259" vertical-scroll-proportion="0.15075377">
           <folding />
         </state>
       </provider>
